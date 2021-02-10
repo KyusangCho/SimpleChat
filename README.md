@@ -1,0 +1,2 @@
+# SimpleChat
+Core SignalR Test
